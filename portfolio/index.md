@@ -4,7 +4,7 @@
 
 <img src="../imgs/me_4.JPG" alt="肖像" style="max-width: 40%; height: auto;">
 
-```json
+<pre><code>
 [
   "name_jp" : "北川幸輝",
   "name_en" : "Kouki KITAGAWA",
@@ -17,6 +17,6 @@
     }
   }
 ]
-```
+</code></pre>
 
 </div>
