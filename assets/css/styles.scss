@@ -1,0 +1,36 @@
+---
+---
+
+.img-code-container {
+  display: flex;
+  align-items: stretch;   /* 高さを揃える */
+  gap: 20px;
+}
+
+.img-code-container img {
+  max-width: 40%;        /* PC時の幅（画面幅の40%まで） */
+  height: auto;
+  object-fit: contain;   /* 画像比率を保って収める */
+}
+
+.img-code-container pre {
+  flex: 1;               /* 残りスペースを使用 */
+  margin: 0;
+  background: #1e1e1e;   /* VSCode風ダーク背景 */
+  color: #dcdcdc;
+  padding: 10px;
+  border-radius: 8px;
+  overflow: auto;        /* はみ出した分をスクロール */
+  max-height: 100%;      /* 画像と高さを揃える */
+}
+
+/* スマホ表示: 縦並びに切り替え */
+@media (max-width: 600px) {
+  .img-code-container {
+    flex-direction: column;
+  }
+  .img-code-container img,
+  .img-code-container pre {
+    max-width: 100%;   /* 横幅いっぱい */
+  }
+}
