@@ -1,6 +1,6 @@
-<div class="img-code-container">
-
 # About me
+
+<div class="img-code-container">
 
 <img src="../imgs/me_4.JPG" alt="肖像" style="max-width: 40%; height: auto;">
 
