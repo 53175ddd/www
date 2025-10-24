@@ -19,4 +19,29 @@
 ]
 </code></pre>
 
+## 各種アカウント
+
+各種アカウントの ID やリンクは以下の通りです
+
+<pre><code>
+[
+  "twitter" : {
+    "main" : "@53175ddd",
+    "personal" : "@0x5E788F1D"
+  }
+  "github" : "@53175ddd",
+  "mail_address" : {
+    "primary_gmail" : "53175ddd@gmail.com",
+    "secondary_gmail" : "tatarariku@gmail.com",
+    "official_job_mail" : "contact@mail.kitagawa-eizo.com",
+    "personal_job_mail" : "personal@mail.kitagawa-eizo.com",
+    "personal_selfhosted_mail" : "me@m.53175ddd.net"
+  }
+  "instagram" : "@53175ddd"
+]
+</code></pre>
+
+雑多なご用事は `primary_gmail` や `personal_selfhosted_mail` 宛てに頂ければ対応いたします．  
+お仕事の相談などは `personal_job_mail` か `official_job_mail` までお願いします．
+
 </div>
