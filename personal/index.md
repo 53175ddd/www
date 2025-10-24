@@ -19,9 +19,13 @@
 ]
 </code></pre>
 
+</div>
+
 ## 各種アカウント
 
 各種アカウントの ID やリンクは以下の通りです
+
+<div>
 
 <pre><code>
 [
@@ -41,7 +45,7 @@
 ]
 </code></pre>
 
+</div>
+
 雑多なご用事は `primary_gmail` や `personal_selfhosted_mail` 宛てに頂ければ対応いたします．  
 お仕事の相談などは `personal_job_mail` か `official_job_mail` までお願いします．
-
-</div>
