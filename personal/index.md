@@ -38,10 +38,9 @@
     "primary_gmail" : "53175ddd@gmail.com",
     "secondary_gmail" : "tatarariku@gmail.com",
     "official_job_mail" : "contact@mail.kitagawa-eizo.com",
-    "personal_job_mail" : "personal@mail.kitagawa-eizo.com",
+    "personal_job_mail" : "k@kitagawa-eizo.com",
     "personal_selfhosted_mail" : "me@m.53175ddd.net"
   }
-  "instagram" : "@53175ddd"
 ]
 </code></pre>
 
