@@ -38,8 +38,7 @@
     "primary_gmail" : "53175ddd@gmail.com",
     "secondary_gmail" : "tatarariku@gmail.com",
     "official_job_mail" : "contact@mail.kitagawa-eizo.com",
-    "personal_job_mail" : "k@kitagawa-eizo.com",
-    "personal_selfhosted_mail" : "me@m.53175ddd.net"
+    "personal_job_mail" : "k@kitagawa-eizo.com"
   }
 ]
 </code></pre>
@@ -47,4 +46,4 @@
 </div>
 
 雑多なご用事は `primary_gmail` や `personal_selfhosted_mail` 宛てに頂ければ対応いたします．  
-お仕事の相談などは `personal_job_mail` か `official_job_mail` までお願いします．
+お仕事の相談などは `official_job_mail` までお願いします．
